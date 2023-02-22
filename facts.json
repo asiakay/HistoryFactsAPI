@@ -1,0 +1,79 @@
+[
+  {
+  "id": 1,
+  "year": 1881,
+  "person": "Granville T. Woods",
+  "description": "Awarded several patents for his innovations in the field of electrical engineering, including the development of a new type of induction telegraph.",
+  "category": "Science and Technology"
+},
+{
+  "id": 2,
+  "year": 1886,
+  "person": "Alice H. Parker",
+  "description": "Developed a new type of heating system that used natural gas.",
+  "category": "Science and Technology"
+},
+{
+  "id": 3,
+  "year": 1887,
+  "person": "George Washington Carver",
+  "description": "Began his work as an agricultural researcher and educator, developing new techniques for soil conservation and crop rotation that helped improve agricultural production in the southern US.",
+  "category": "Science and Education"
+},
+{
+  "id": 4,
+  "year": 1887,
+  "person": "Norbert Rillieux",
+  "description": "Awarded several patents for his innovations in the field of sugar refining, including the development of a new process for refining sugar using vacuum evaporation.",
+  "category": "Science and Technology"
+},
+{
+  "id": 5,
+  "year": 1892,
+  "person": "Dr. Percival J. Bailey",
+  "description": "Made significant contributions to the field of neurosurgery and developed new techniques for the treatment of brain tumors.",
+  "category": "Science and Medicine"
+},
+{
+  "id": 6,
+  "year": 1894,
+  "person": "William H. Reynolds",
+  "description": "Awarded several patents for his innovations in the field of transportation, including the development of a new type of steam-powered locomotive.",
+  "category": "Science and Technology"
+},
+{
+  "id": 7,
+  "year": 1895,
+  "person": "Robert Church Sr.",
+  "description": "Became a pioneering business leader in the field of mining and one of the wealthiest African Americans in the US.",
+  "category": "Business and Entrepreneurship"
+},
+{
+  "id": 8,
+  "year": 1896,
+  "person": "Robert R. Moton",
+  "description": "Became the second president of Tuskegee Institute, a historically Black college in Alabama, and was a leading figure in the African American education movement.",
+  "category": "Education and Leadership"
+},
+{
+  "id": 9,
+  "year": 1898,
+  "person": "Norbert Rillieux",
+  "description": "Awarded several patents for his innovations in the field of sugar refining, including the development of a new process for refining sugar using vacuum evaporation.",
+  "category": "Science and Technology"
+},
+{
+  "id": 10,
+  "year": 1895,
+  "person": "Garrett A. Morgan",
+  "description": "Awarded several patents for his innovations in the field of telecommunications, including the development of a new type of traffic signal and an early version of the gas mask.",
+  "category": "Science and Technology"
+},
+{
+  "id": 11,
+  "year": 1880,
+  "person": "Madam C.J. Walker",
+  "description": "Became the first female self-made millionaire in the US, building a successful cosmetics and hair care business for African American women.",
+  "category": "Business and Entrepreneurship"
+}
+]
